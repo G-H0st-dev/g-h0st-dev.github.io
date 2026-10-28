@@ -1,2 +1,1 @@
-# Paste your line from AdMob (Apps > View all apps > app-ads.txt) below, replacing this comment.
-# It looks like: google.com, pub-1234567890123456, DIRECT, f08c47fec0942fa0
+google.com, pub-1657746262162383, DIRECT, f08c47fec0942fa0
